@@ -1,4 +1,4 @@
-import resumePDF from '../assets/resume/Resume-Navera-Raycia-Software.pdf'
+import resumePDF from '../assets/resume/WEB-DESIGNER-RESUME.pdf'
 
 function Navbar() {
   return (

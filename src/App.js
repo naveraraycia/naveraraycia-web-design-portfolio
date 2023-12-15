@@ -1,5 +1,5 @@
 import Navbar from "./components/Navbar";
-import resumePDF from './assets/resume/Resume-Navera-Raycia-Software.pdf'
+import resumePDF from './assets/resume/WEB-DESIGNER-RESUME.pdf'
 import {webDesignProjects} from './projectDetails/projectInformation'
 import ProjectItem from "./components/ProjectItem";
 import Footer from "./components/Footer";
