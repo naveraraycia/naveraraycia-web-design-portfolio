@@ -8,8 +8,15 @@ import p7 from '../assets/imgs/chapters.jpg'
 import p8 from '../assets/imgs/cremeBrew.jpg'
 import p9 from '../assets/imgs/aesthetica.jpg'
 import p10 from '../assets/imgs/company.jpg'
+import p11 from '../assets/imgs/Focalpoint.jpg'
 
 export const webDesignProjects = [
+  {
+    title: 'Focalpoint',
+    img: p11,
+    figmaURL: 'https://www.figma.com/file/vZJutkZmAhXD77LsOzB5f4/FOCALPOINT---Photography-Web-Design?type=design&node-id=0%3A1&mode=design&t=TogFD6OhaUhFT85n-1',
+    siteURL: 'https://focalpoint-lime.vercel.app/'
+  },
   {
     title: 'skinBliss',
     img: p1,
